@@ -1,19 +1,29 @@
 .row{
     display: flex;
+
 }
 .col{
     flex: 1;
     background-color: indigo;
     color: cornsilk;
+    height: 100px;
+    width: 150px;
+    margin: 10px;
 
 }
 .col-2{
     flex: 2;
     background-color: black;
     color:cornsilk;
+    height: 100px;
+    width: 150px;
+    margin: 10px;
 }
 .col-3{
     flex: 3;
     background-color:green;
     color: cornsilk;
+    height: 100px;
+    width: 150px;
+    margin: 10px;
 }

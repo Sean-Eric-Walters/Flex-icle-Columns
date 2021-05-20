@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+}
+.col{
+    flex: 1;
+    background-color: indigo;
+    color: cornsilk;
+
+}
+.col-2{
+    flex: 2;
+    background-color: black;
+    color:cornsilk;
+}
+.col-3{
+    flex: 3;
+    background-color:green;
+    color: cornsilk;
+}
